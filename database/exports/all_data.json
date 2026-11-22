@@ -1,0 +1,1166 @@
+{
+  "project": "StayWithUs",
+  "database": "hotel_booking_db",
+  "exported_at": "2026-11-21T12:37:04.115Z",
+  "summary": {
+    "total_tables": 18,
+    "total_rows": 155,
+    "tables": {
+      "dia_diem": 10,
+      "su_kien_dac_quyen": 2,
+      "tien_ich": 12,
+      "vai_tro": 3,
+      "nguoi_dung": 8,
+      "ho_so_ncc": 2,
+      "khach_san": 6,
+      "danh_gia": 4,
+      "dich_vu": 13,
+      "khach_san_tien_ich": 36,
+      "khuyen_mai": 2,
+      "don_dat_phong": 5,
+      "chi_tiet_dich_vu": 1,
+      "loai_phong": 11,
+      "phong": 28,
+      "chi_tiet_dat_phong": 5,
+      "thanh_toan": 6,
+      "hoa_don": 1
+    }
+  },
+  "data": {
+    "dia_diem": [
+      {
+        "id_diadiem": "1",
+        "tinh_thanh": "TP. Hồ Chí Minh",
+        "quan_huyen": "Quận 1",
+        "slug": "tp-ho-chi-minh-quan-1"
+      },
+      {
+        "id_diadiem": "2",
+        "tinh_thanh": "TP. Hồ Chí Minh",
+        "quan_huyen": "Quận 3",
+        "slug": "tp-ho-chi-minh-quan-3"
+      },
+      {
+        "id_diadiem": "3",
+        "tinh_thanh": "TP. Hồ Chí Minh",
+        "quan_huyen": "TP. Thủ Đức",
+        "slug": "tp-ho-chi-minh-thu-duc"
+      },
+      {
+        "id_diadiem": "4",
+        "tinh_thanh": "Hà Nội",
+        "quan_huyen": "Quận Hoàn Kiếm",
+        "slug": "ha-noi-hoan-kiem"
+      },
+      {
+        "id_diadiem": "5",
+        "tinh_thanh": "Hà Nội",
+        "quan_huyen": "Quận Tây Hồ",
+        "slug": "ha-noi-tay-ho"
+      },
+      {
+        "id_diadiem": "6",
+        "tinh_thanh": "Đà Nẵng",
+        "quan_huyen": "Quận Sơn Trà",
+        "slug": "da-nang-son-tra"
+      },
+      {
+        "id_diadiem": "7",
+        "tinh_thanh": "Đà Nẵng",
+        "quan_huyen": "Quận Ngũ Hành Sơn",
+        "slug": "da-nang-ngu-hanh-son"
+      },
+      {
+        "id_diadiem": "8",
+        "tinh_thanh": "Lâm Đồng",
+        "quan_huyen": "TP. Đà Lạt",
+        "slug": "lam-dong-da-lat"
+      },
+      {
+        "id_diadiem": "9",
+        "tinh_thanh": "Khánh Hòa",
+        "quan_huyen": "TP. Nha Trang",
+        "slug": "khanh-hoa-nha-trang"
+      },
+      {
+        "id_diadiem": "10",
+        "tinh_thanh": "Kiên Giang",
+        "quan_huyen": "TP. Phú Quốc",
+        "slug": "kien-giang-phu-quoc"
+      }
+    ],
+    "su_kien_dac_quyen": [
+      {
+        "id_sukien": "1",
+        "tieu_de": "Đêm Hội Thành Viên StayWithUs",
+        "mo_ta": "Ưu đãi độc quyền tặng mã giảm giá và miễn phí nhận phòng sớm cho khách hàng đăng nhập tài khoản StayWithUs.",
+        "doi_tuong": "THANH_VIEN",
+        "dac_quyen": "Giảm 10% tổng đơn + Ưu tiên nhận phòng sớm 2 giờ",
+        "ma_voucher_kem": "WELCOME10",
+        "ngay_batdau": "2026-11-20T06:05:43.022Z",
+        "ngay_ketthuc": "2027-05-20T06:05:43.022Z",
+        "trang_thai": "DANG_DIEN_RA",
+        "ngay_tao": "2026-11-21T06:05:43.022Z"
+      },
+      {
+        "id_sukien": "2",
+        "tieu_de": "Tuần Lễ Nghỉ Dưỡng Biển Hè VIP",
+        "mo_ta": "Sự kiện đặc quyền áp dụng cho các khu nghỉ dưỡng biển 4-5 sao tại Đà Nẵng, Phú Quốc và Nha Trang.",
+        "doi_tuong": "KHACH_VIP",
+        "dac_quyen": "Giảm trực tiếp 200.000đ + Miễn phí nâng hạng phòng nếu còn trống",
+        "ma_voucher_kem": "GIAM200K",
+        "ngay_batdau": "2026-11-20T06:05:43.022Z",
+        "ngay_ketthuc": "2027-03-21T06:05:43.022Z",
+        "trang_thai": "DANG_DIEN_RA",
+        "ngay_tao": "2026-11-21T06:05:43.022Z"
+      }
+    ],
+    "tien_ich": [
+      {
+        "id_tienich": "1",
+        "ten_tienich": "Wi-Fi tốc độ cao miễn phí",
+        "loai_tienich": "CO_BAN",
+        "icon": "wifi"
+      },
+      {
+        "id_tienich": "2",
+        "ten_tienich": "Hồ bơi vô cực",
+        "loai_tienich": "GIAI_TRI",
+        "icon": "pool"
+      },
+      {
+        "id_tienich": "3",
+        "ten_tienich": "Bãi đỗ xe miễn phí",
+        "loai_tienich": "CO_BAN",
+        "icon": "parking"
+      },
+      {
+        "id_tienich": "4",
+        "ten_tienich": "Phòng tập Gym",
+        "loai_tienich": "GIAI_TRI",
+        "icon": "dumbbell"
+      },
+      {
+        "id_tienich": "5",
+        "ten_tienich": "Spa & Massage",
+        "loai_tienich": "GIAI_TRI",
+        "icon": "spa"
+      },
+      {
+        "id_tienich": "6",
+        "ten_tienich": "Nhà hàng buffet sáng",
+        "loai_tienich": "AM_THUC",
+        "icon": "utensils"
+      },
+      {
+        "id_tienich": "7",
+        "ten_tienich": "Quầy bar tầng thượng",
+        "loai_tienich": "AM_THUC",
+        "icon": "martini"
+      },
+      {
+        "id_tienich": "8",
+        "ten_tienich": "Đưa đón sân bay",
+        "loai_tienich": "DI_CHUYEN",
+        "icon": "plane"
+      },
+      {
+        "id_tienich": "9",
+        "ten_tienich": "Lễ tân 24/7",
+        "loai_tienich": "CO_BAN",
+        "icon": "clock"
+      },
+      {
+        "id_tienich": "10",
+        "ten_tienich": "Hướng biển",
+        "loai_tienich": "KHONG_GIAN",
+        "icon": "waves"
+      },
+      {
+        "id_tienich": "11",
+        "ten_tienich": "Phòng họp / Hội nghị",
+        "loai_tienich": "CONG_TAC",
+        "icon": "briefcase"
+      },
+      {
+        "id_tienich": "12",
+        "ten_tienich": "Cho phép thú cưng",
+        "loai_tienich": "TIEN_NGHI",
+        "icon": "paw"
+      }
+    ],
+    "vai_tro": [
+      {
+        "id_vaitro": "1",
+        "ten_vaitro": "USER",
+        "mo_ta_vaitro": "Khách hàng đặt phòng và đánh giá"
+      },
+      {
+        "id_vaitro": "2",
+        "ten_vaitro": "VENDOR",
+        "mo_ta_vaitro": "Nhà cung cấp / Chủ khách sạn"
+      },
+      {
+        "id_vaitro": "3",
+        "ten_vaitro": "ADMIN",
+        "mo_ta_vaitro": "Quản trị viên hệ thống"
+      }
+    ],
+    "nguoi_dung": [
+      {
+        "id_nguoidung": "1",
+        "id_vaitro": "3",
+        "ho_ten": "Quản trị viên hệ thống",
+        "email": "admin@smarthotel.vn",
+        "mat_khau": "$2a$10$CVSLimX5Ol9viecoq7ERZ.qjzZiM/yeKh0boPl3KjTDA4YjkCyVe6",
+        "sdt": "0900000001",
+        "avatar": null,
+        "trang_thai_tk": "HOAT_DONG"
+      },
+      {
+        "id_nguoidung": "2",
+        "id_vaitro": "2",
+        "ho_ten": "Nguyễn Minh Quân (Ocean Hospitality)",
+        "email": "vendor.danang@smarthotel.vn",
+        "mat_khau": "$2a$10$13S6bf/aBMSe9kQu1u1OHuDAuRVqCXL0cPnLasF7wqkVJj.J1ZBde",
+        "sdt": "0905111222",
+        "avatar": null,
+        "trang_thai_tk": "HOAT_DONG"
+      },
+      {
+        "id_nguoidung": "3",
+        "id_vaitro": "2",
+        "ho_ten": "Trần Thảo Vy (Highland Stays)",
+        "email": "vendor.dalat@smarthotel.vn",
+        "mat_khau": "$2a$10$501Sw45iJ.OGE1vosKU.FOB2iubVgzis3lV2TIltf4TZBBjGOIStC",
+        "sdt": "0908333444",
+        "avatar": null,
+        "trang_thai_tk": "HOAT_DONG"
+      },
+      {
+        "id_nguoidung": "4",
+        "id_vaitro": "1",
+        "ho_ten": "Lê Hoàng Nam",
+        "email": "khach1@smarthotel.vn",
+        "mat_khau": "$2a$10$CRxDg7EENz15eldWVc72MO2ShgNF9AOLYj/lR27ghM1uoi0ORxEh.",
+        "sdt": "0912345678",
+        "avatar": null,
+        "trang_thai_tk": "HOAT_DONG"
+      },
+      {
+        "id_nguoidung": "5",
+        "id_vaitro": "1",
+        "ho_ten": "Phạm Ngọc Anh",
+        "email": "khach2@smarthotel.vn",
+        "mat_khau": "$2a$10$3mBkHzZ9UcCp60Eo.PF6Kujnrh7DaoBtcuswO1LjoCuzYMYwPHNoW",
+        "sdt": "0987654321",
+        "avatar": null,
+        "trang_thai_tk": "HOAT_DONG"
+      },
+      {
+        "id_nguoidung": "7",
+        "id_vaitro": "1",
+        "ho_ten": "NamNam",
+        "email": "hoanamtran68@gmail.com",
+        "mat_khau": "$2a$10$1GflSjSJs6FtI2SbyKxjXeWm/A/oBNOawv7aZQUwrr30EI05CxaW2",
+        "sdt": "0777106713",
+        "avatar": null,
+        "trang_thai_tk": "HOAT_DONG"
+      },
+      {
+        "id_nguoidung": "8",
+        "id_vaitro": "1",
+        "ho_ten": "duong",
+        "email": "deo.duong@mailinator.com",
+        "mat_khau": "$2a$10$NWthjBTS6K6U.mvhIYpVe.b2GtYhcuEWr.c.fhAmPu.WYZHsmmRym",
+        "sdt": "0912356791",
+        "avatar": null,
+        "trang_thai_tk": "HOAT_DONG"
+      },
+      {
+        "id_nguoidung": "9",
+        "id_vaitro": "1",
+        "ho_ten": "duong",
+        "email": "deo.duong1@mailinator.com",
+        "mat_khau": "$2a$10$s5an1mwBx5LNcL40dSWO.uMHMzXDV62bZdEDrTiIHi4FX5SM6nnQq",
+        "sdt": "0912356792",
+        "avatar": null,
+        "trang_thai_tk": "HOAT_DONG"
+      }
+    ],
+    "ho_so_ncc": [
+      {
+        "id_ncc": "1",
+        "id_nguoidung": "2",
+        "ten_doanh_nghiep": "Tập đoàn Khách sạn Ocean Hospitality",
+        "ma_so_thue": "0401999888",
+        "so_tai_khoan": "VCB-0041000999888",
+        "ty_le_chiet_khau": "10.00",
+        "trang_thai_duyet": "DA_DUYET"
+      },
+      {
+        "id_ncc": "2",
+        "id_nguoidung": "3",
+        "ten_doanh_nghiep": "Công ty Nghỉ dưỡng Highland Stays",
+        "ma_so_thue": "5801777666",
+        "so_tai_khoan": "TCB-1903666777888",
+        "ty_le_chiet_khau": "12.00",
+        "trang_thai_duyet": "DA_DUYET"
+      }
+    ],
+    "khach_san": [
+      {
+        "id_khachsan": "1",
+        "id_ncc": "1",
+        "id_diadiem": "6",
+        "ten_khachsan": "Grand Ocean Bay Resort & Spa",
+        "dia_chi": "88 Võ Nguyên Giáp, Quận Sơn Trà, Đà Nẵng",
+        "mo_ta": "Khu nghỉ dưỡng 5 sao sang trọng nằm trực diện bãi biển Mỹ Khê với hồ bơi vô cực hướng biển, spa cao cấp và nhà hàng buffet quốc tế. Lý tưởng cho cặp đôi nghỉ dưỡng và gia đình.",
+        "hang_sao": 5,
+        "trang_thai_duyet": "DA_DUYET",
+        "embedding": null
+      },
+      {
+        "id_khachsan": "2",
+        "id_ncc": "1",
+        "id_diadiem": "1",
+        "ten_khachsan": "Saigon Central Boutique Hotel",
+        "dia_chi": "125 Lê Lợi, Phường Bến Thành, Quận 1, TP. Hồ Chí Minh",
+        "mo_ta": "Khách sạn 4 sao phong cách hiện đại ngay trung tâm Quận 1, cách chợ Bến Thành 3 phút đi bộ. Có phòng họp chuyên nghiệp, quầy bar tầng thượng ngắm toàn cảnh thành phố.",
+        "hang_sao": 4,
+        "trang_thai_duyet": "DA_DUYET",
+        "embedding": null
+      },
+      {
+        "id_khachsan": "3",
+        "id_ncc": "2",
+        "id_diadiem": "8",
+        "ten_khachsan": "Pine Hill Mist Villa Đà Lạt",
+        "dia_chi": "18 Đường Trần Hưng Đạo, TP. Đà Lạt, Lâm Đồng",
+        "mo_ta": "Biệt thự nghỉ dưỡng 4 sao ẩn mình giữa rừng thông yên tĩnh, không khí se lạnh, thiết kế gỗ ấm cúng lãng mạn cực kỳ phù hợp cho cặp đôi, gia đình nhỏ và thân thiện với thú cưng.",
+        "hang_sao": 4,
+        "trang_thai_duyet": "DA_DUYET",
+        "embedding": null
+      },
+      {
+        "id_khachsan": "4",
+        "id_ncc": "1",
+        "id_diadiem": "10",
+        "ten_khachsan": "Emerald Pearl Phú Quốc Resort",
+        "dia_chi": "Bãi Trường, Dương Tơ, TP. Phú Quốc, Kiên Giang",
+        "mo_ta": "Thiên đường nghỉ dưỡng 5 sao bên bờ biển Phú Quốc với bãi cát trắng riêng, hồ bơi vô cực ngắm hoàng hôn tuyệt đẹp, spa thảo mộc và khu vui chơi trẻ em.",
+        "hang_sao": 5,
+        "trang_thai_duyet": "DA_DUYET",
+        "embedding": null
+      },
+      {
+        "id_khachsan": "5",
+        "id_ncc": "2",
+        "id_diadiem": "4",
+        "ten_khachsan": "Hanoi Old Quarter Heritage Hotel",
+        "dia_chi": "42 Hàng Bè, Quận Hoàn Kiếm, Hà Nội",
+        "mo_ta": "Khách sạn 4 sao mang phong cách Đông Dương tinh tế giữa lòng phố cổ Hà Nội, cách Hồ Hoàn Kiếm chỉ 200m, thuận tiện khám phá ẩm thực và văn hóa thủ đô.",
+        "hang_sao": 4,
+        "trang_thai_duyet": "DA_DUYET",
+        "embedding": null
+      },
+      {
+        "id_khachsan": "6",
+        "id_ncc": "2",
+        "id_diadiem": "9",
+        "ten_khachsan": "Sunrise Beachfront Nha Trang",
+        "dia_chi": "64 Trần Phú, TP. Nha Trang, Khánh Hòa",
+        "mo_ta": "Khách sạn 3 sao giá tốt ngay mặt tiền đường biển Trần Phú, phòng sạch sẽ sáng sủa, có hồ bơi ngoài trời và nhân viên thân thiện. Phù hợp du lịch tiết kiệm cùng bạn bè, gia đình.",
+        "hang_sao": 3,
+        "trang_thai_duyet": "DA_DUYET",
+        "embedding": null
+      }
+    ],
+    "danh_gia": [
+      {
+        "id_danhgia": "1",
+        "id_nguoidung": "4",
+        "id_khachsan": "1",
+        "so_sao": 5,
+        "noi_dung": "Resort quá tuyệt vời! Hồ bơi vô cực nhìn thẳng ra biển Mỹ Khê, phòng sạch sẽ, nhân viên nhiệt tình và buffet sáng rất phong phú.",
+        "phan_hoi_ncc": "Grand Ocean Bay xin cảm ơn anh Nam đã dành lời khen. Rất mong được đón tiếp anh trong chuyến đi sắp tới!",
+        "trang_thai_duyet": "HIEN_THI"
+      },
+      {
+        "id_danhgia": "2",
+        "id_nguoidung": "5",
+        "id_khachsan": "1",
+        "so_sao": 4,
+        "noi_dung": "Phòng đẹp, view biển rất thư giãn, spa làm tốt. Tuy nhiên giờ cao điểm thang máy hơi đông một chút.",
+        "phan_hoi_ncc": null,
+        "trang_thai_duyet": "HIEN_THI"
+      },
+      {
+        "id_danhgia": "3",
+        "id_nguoidung": "5",
+        "id_khachsan": "3",
+        "so_sao": 5,
+        "noi_dung": "Không gian rừng thông siêu chill và yên tĩnh, buổi sáng mở ban công ngắm mây cực thích. Rất hợp đi nghỉ dưỡng cùng người yêu.",
+        "phan_hoi_ncc": "Cảm ơn chị Ngọc Anh đã ghé thăm Pine Hill Mist Villa Đà Lạt ạ!",
+        "trang_thai_duyet": "HIEN_THI"
+      },
+      {
+        "id_danhgia": "4",
+        "id_nguoidung": "4",
+        "id_khachsan": "2",
+        "so_sao": 5,
+        "noi_dung": "Vị trí ngay trung tâm Quận 1 đi công tác rất tiện lợi, Wi-Fi mạnh và quầy bar tầng thượng có view đẹp.",
+        "phan_hoi_ncc": null,
+        "trang_thai_duyet": "HIEN_THI"
+      }
+    ],
+    "dich_vu": [
+      {
+        "id_dichvu": "1",
+        "id_khachsan": "1",
+        "ten_dichvu": "Đưa đón sân bay Đà Nẵng",
+        "gia_dichvu": "350000.00",
+        "don_vi_tinh": "Lượt"
+      },
+      {
+        "id_dichvu": "2",
+        "id_khachsan": "1",
+        "ten_dichvu": "Liệu trình Spa thư giãn 60 phút",
+        "gia_dichvu": "650000.00",
+        "don_vi_tinh": "Suất"
+      },
+      {
+        "id_dichvu": "3",
+        "id_khachsan": "1",
+        "ten_dichvu": "Buffet hải sản tối",
+        "gia_dichvu": "590000.00",
+        "don_vi_tinh": "Khách"
+      },
+      {
+        "id_dichvu": "4",
+        "id_khachsan": "2",
+        "ten_dichvu": "Giặt ủi nhanh trong ngày",
+        "gia_dichvu": "150000.00",
+        "don_vi_tinh": "Kg"
+      },
+      {
+        "id_dichvu": "5",
+        "id_khachsan": "2",
+        "ten_dichvu": "Đưa đón sân bay Tân Sơn Nhất",
+        "gia_dichvu": "300000.00",
+        "don_vi_tinh": "Lượt"
+      },
+      {
+        "id_dichvu": "6",
+        "id_khachsan": "3",
+        "ten_dichvu": "Set tiệc BBQ sân vườn (2-4 người)",
+        "gia_dichvu": "850000.00",
+        "don_vi_tinh": "Set"
+      },
+      {
+        "id_dichvu": "7",
+        "id_khachsan": "3",
+        "ten_dichvu": "Thuê xe máy khám phá Đà Lạt",
+        "gia_dichvu": "150000.00",
+        "don_vi_tinh": "Ngày"
+      },
+      {
+        "id_dichvu": "8",
+        "id_khachsan": "4",
+        "ten_dichvu": "Tour cano 4 đảo Phú Quốc",
+        "gia_dichvu": "950000.00",
+        "don_vi_tinh": "Khách"
+      },
+      {
+        "id_dichvu": "9",
+        "id_khachsan": "4",
+        "ten_dichvu": "Đưa đón sân bay Phú Quốc",
+        "gia_dichvu": "250000.00",
+        "don_vi_tinh": "Lượt"
+      },
+      {
+        "id_dichvu": "10",
+        "id_khachsan": "5",
+        "ten_dichvu": "Đưa đón sân bay Nội Bài",
+        "gia_dichvu": "400000.00",
+        "don_vi_tinh": "Lượt"
+      },
+      {
+        "id_dichvu": "11",
+        "id_khachsan": "5",
+        "ten_dichvu": "City Tour Hà Nội nửa ngày",
+        "gia_dichvu": "550000.00",
+        "don_vi_tinh": "Khách"
+      },
+      {
+        "id_dichvu": "12",
+        "id_khachsan": "6",
+        "ten_dichvu": "Thuê xe máy Nha Trang",
+        "gia_dichvu": "130000.00",
+        "don_vi_tinh": "Ngày"
+      },
+      {
+        "id_dichvu": "13",
+        "id_khachsan": "6",
+        "ten_dichvu": "Ăn sáng tự chọn",
+        "gia_dichvu": "120000.00",
+        "don_vi_tinh": "Khách"
+      }
+    ],
+    "khach_san_tien_ich": [
+      {
+        "id_khachsan": "1",
+        "id_tienich": "1"
+      },
+      {
+        "id_khachsan": "1",
+        "id_tienich": "2"
+      },
+      {
+        "id_khachsan": "1",
+        "id_tienich": "5"
+      },
+      {
+        "id_khachsan": "1",
+        "id_tienich": "6"
+      },
+      {
+        "id_khachsan": "1",
+        "id_tienich": "8"
+      },
+      {
+        "id_khachsan": "1",
+        "id_tienich": "9"
+      },
+      {
+        "id_khachsan": "1",
+        "id_tienich": "10"
+      },
+      {
+        "id_khachsan": "2",
+        "id_tienich": "1"
+      },
+      {
+        "id_khachsan": "2",
+        "id_tienich": "4"
+      },
+      {
+        "id_khachsan": "2",
+        "id_tienich": "6"
+      },
+      {
+        "id_khachsan": "2",
+        "id_tienich": "7"
+      },
+      {
+        "id_khachsan": "2",
+        "id_tienich": "9"
+      },
+      {
+        "id_khachsan": "2",
+        "id_tienich": "11"
+      },
+      {
+        "id_khachsan": "3",
+        "id_tienich": "1"
+      },
+      {
+        "id_khachsan": "3",
+        "id_tienich": "3"
+      },
+      {
+        "id_khachsan": "3",
+        "id_tienich": "6"
+      },
+      {
+        "id_khachsan": "3",
+        "id_tienich": "9"
+      },
+      {
+        "id_khachsan": "3",
+        "id_tienich": "12"
+      },
+      {
+        "id_khachsan": "4",
+        "id_tienich": "1"
+      },
+      {
+        "id_khachsan": "4",
+        "id_tienich": "2"
+      },
+      {
+        "id_khachsan": "4",
+        "id_tienich": "3"
+      },
+      {
+        "id_khachsan": "4",
+        "id_tienich": "5"
+      },
+      {
+        "id_khachsan": "4",
+        "id_tienich": "6"
+      },
+      {
+        "id_khachsan": "4",
+        "id_tienich": "7"
+      },
+      {
+        "id_khachsan": "4",
+        "id_tienich": "8"
+      },
+      {
+        "id_khachsan": "4",
+        "id_tienich": "10"
+      },
+      {
+        "id_khachsan": "5",
+        "id_tienich": "1"
+      },
+      {
+        "id_khachsan": "5",
+        "id_tienich": "5"
+      },
+      {
+        "id_khachsan": "5",
+        "id_tienich": "6"
+      },
+      {
+        "id_khachsan": "5",
+        "id_tienich": "8"
+      },
+      {
+        "id_khachsan": "5",
+        "id_tienich": "9"
+      },
+      {
+        "id_khachsan": "6",
+        "id_tienich": "1"
+      },
+      {
+        "id_khachsan": "6",
+        "id_tienich": "2"
+      },
+      {
+        "id_khachsan": "6",
+        "id_tienich": "3"
+      },
+      {
+        "id_khachsan": "6",
+        "id_tienich": "9"
+      },
+      {
+        "id_khachsan": "6",
+        "id_tienich": "10"
+      }
+    ],
+    "khuyen_mai": [
+      {
+        "id_khuyenmai": "1",
+        "ma_voucher": "WELCOME10",
+        "loai_giamgia": "PHAN_TRAM",
+        "gia_tri_giam": "10.00",
+        "ngay_batdau": "2026-11-19T17:37:57.816Z",
+        "ngay_ketthuc": "2027-11-20T17:37:57.816Z",
+        "id_khachsan": null
+      },
+      {
+        "id_khuyenmai": "2",
+        "ma_voucher": "GIAM200K",
+        "loai_giamgia": "SO_TIEN",
+        "gia_tri_giam": "200000.00",
+        "ngay_batdau": "2026-11-19T17:37:57.816Z",
+        "ngay_ketthuc": "2027-11-20T17:37:57.816Z",
+        "id_khachsan": null
+      }
+    ],
+    "don_dat_phong": [
+      {
+        "id_dondat": "1",
+        "id_nguoidung": "4",
+        "id_khachsan": "1",
+        "id_khuyenmai": null,
+        "ngay_nhan_phong": "2026-08-09T17:00:00.000Z",
+        "ngay_tra_phong": "2026-08-11T17:00:00.000Z",
+        "tong_tien": "4050000.00",
+        "phi_hoa_hong": "405000.00",
+        "trang_thai_don": "HOAN_THANH"
+      },
+      {
+        "id_dondat": "2",
+        "id_nguoidung": "5",
+        "id_khachsan": "3",
+        "id_khuyenmai": null,
+        "ngay_nhan_phong": "2026-09-14T17:00:00.000Z",
+        "ngay_tra_phong": "2026-09-17T17:00:00.000Z",
+        "tong_tien": "3300000.00",
+        "phi_hoa_hong": "396000.00",
+        "trang_thai_don": "HOAN_THANH"
+      },
+      {
+        "id_dondat": "3",
+        "id_nguoidung": "4",
+        "id_khachsan": "2",
+        "id_khuyenmai": null,
+        "ngay_nhan_phong": "2026-10-04T17:00:00.000Z",
+        "ngay_tra_phong": "2026-10-06T17:00:00.000Z",
+        "tong_tien": "2500000.00",
+        "phi_hoa_hong": "250000.00",
+        "trang_thai_don": "DA_XAC_NHAN"
+      },
+      {
+        "id_dondat": "4",
+        "id_nguoidung": "7",
+        "id_khachsan": "3",
+        "id_khuyenmai": null,
+        "ngay_nhan_phong": "2026-11-23T17:00:00.000Z",
+        "ngay_tra_phong": "2026-11-25T17:00:00.000Z",
+        "tong_tien": "2200000.00",
+        "phi_hoa_hong": "264000.00",
+        "trang_thai_don": "DA_HUY"
+      },
+      {
+        "id_dondat": "5",
+        "id_nguoidung": "9",
+        "id_khachsan": "3",
+        "id_khuyenmai": null,
+        "ngay_nhan_phong": "2026-11-09T17:00:00.000Z",
+        "ngay_tra_phong": "2026-11-20T17:00:00.000Z",
+        "tong_tien": "25850000.00",
+        "phi_hoa_hong": "3102000.00",
+        "trang_thai_don": "CHO_XAC_NHAN"
+      }
+    ],
+    "chi_tiet_dich_vu": [
+      {
+        "id_dondat": "1",
+        "id_dichvu": "1",
+        "so_luong": 1,
+        "don_gia": "350000.00"
+      }
+    ],
+    "loai_phong": [
+      {
+        "id_loaiphong": "1",
+        "id_khachsan": "1",
+        "ten_loaiphong": "Deluxe Ocean View",
+        "suc_chua": 2,
+        "gia_moi_dem": "1850000.00",
+        "dien_tich": 42,
+        "mo_ta_lp": "Ban công riêng hướng biển Mỹ Khê, giường King, bồn tắm nằm."
+      },
+      {
+        "id_loaiphong": "2",
+        "id_khachsan": "1",
+        "ten_loaiphong": "Executive Family Suite",
+        "suc_chua": 4,
+        "gia_moi_dem": "3400000.00",
+        "dien_tich": 75,
+        "mo_ta_lp": "2 phòng ngủ rộng rãi, phòng khách riêng, miễn phí buffet sáng 4 khách."
+      },
+      {
+        "id_loaiphong": "3",
+        "id_khachsan": "2",
+        "ten_loaiphong": "Superior City View",
+        "suc_chua": 2,
+        "gia_moi_dem": "1250000.00",
+        "dien_tich": 28,
+        "mo_ta_lp": "Phòng tiêu chuẩn đầy đủ tiện nghi công tác, bàn làm việc rộng."
+      },
+      {
+        "id_loaiphong": "4",
+        "id_khachsan": "2",
+        "ten_loaiphong": "Premier Executive",
+        "suc_chua": 2,
+        "gia_moi_dem": "1950000.00",
+        "dien_tich": 40,
+        "mo_ta_lp": "Tầng cao nhìn ra trung tâm thành phố, tặng kèm đồ uống tầng thượng."
+      },
+      {
+        "id_loaiphong": "5",
+        "id_khachsan": "3",
+        "ten_loaiphong": "Forest Balcony Twin",
+        "suc_chua": 2,
+        "gia_moi_dem": "1100000.00",
+        "dien_tich": 32,
+        "mo_ta_lp": "Ban công ngắm đồi thông săn mây buổi sáng, máy sưởi ấm áp."
+      },
+      {
+        "id_loaiphong": "6",
+        "id_khachsan": "3",
+        "ten_loaiphong": "Romantic Pine Villa",
+        "suc_chua": 4,
+        "gia_moi_dem": "2350000.00",
+        "dien_tich": 65,
+        "mo_ta_lp": "Nguyên căn riêng tư có lò sưởi và sân vườn BBQ ngoài trời."
+      },
+      {
+        "id_loaiphong": "7",
+        "id_khachsan": "4",
+        "ten_loaiphong": "Ocean Sunset Bungalow",
+        "suc_chua": 2,
+        "gia_moi_dem": "2650000.00",
+        "dien_tich": 50,
+        "mo_ta_lp": "Bungalow sát biển riêng tư, ngắm hoàng hôn trực diện."
+      },
+      {
+        "id_loaiphong": "8",
+        "id_khachsan": "4",
+        "ten_loaiphong": "Pool Villa 2 Phòng Ngủ",
+        "suc_chua": 4,
+        "gia_moi_dem": "4500000.00",
+        "dien_tich": 110,
+        "mo_ta_lp": "Hồ bơi riêng trong khuôn viên villa, dịch vụ quản gia 24/7."
+      },
+      {
+        "id_loaiphong": "9",
+        "id_khachsan": "5",
+        "ten_loaiphong": "Heritage Deluxe",
+        "suc_chua": 2,
+        "gia_moi_dem": "1350000.00",
+        "dien_tich": 30,
+        "mo_ta_lp": "Nội thất Indochine sang trọng, cửa sổ nhìn ra phố cổ."
+      },
+      {
+        "id_loaiphong": "10",
+        "id_khachsan": "6",
+        "ten_loaiphong": "Standard Sea Breeze",
+        "suc_chua": 2,
+        "gia_moi_dem": "690000.00",
+        "dien_tich": 25,
+        "mo_ta_lp": "Phòng gọn gàng thoáng mát, cách bãi biển 1 phút băng qua đường."
+      },
+      {
+        "id_loaiphong": "11",
+        "id_khachsan": "6",
+        "ten_loaiphong": "Family Quad Ocean",
+        "suc_chua": 4,
+        "gia_moi_dem": "1150000.00",
+        "dien_tich": 40,
+        "mo_ta_lp": "2 giường lớn cho nhóm bạn hoặc gia đình 4 người."
+      }
+    ],
+    "phong": [
+      {
+        "id_phong": "1",
+        "id_loaiphong": "1",
+        "so_phong": "301",
+        "tang": 3,
+        "trang_thai_phong": "TRONG",
+        "ghi_chu": "Phòng tiêu chuẩn đầy đủ tiện nghi"
+      },
+      {
+        "id_phong": "2",
+        "id_loaiphong": "1",
+        "so_phong": "302",
+        "tang": 3,
+        "trang_thai_phong": "TRONG",
+        "ghi_chu": "Phòng tiêu chuẩn đầy đủ tiện nghi"
+      },
+      {
+        "id_phong": "3",
+        "id_loaiphong": "1",
+        "so_phong": "303",
+        "tang": 3,
+        "trang_thai_phong": "TRONG",
+        "ghi_chu": "Phòng tiêu chuẩn đầy đủ tiện nghi"
+      },
+      {
+        "id_phong": "4",
+        "id_loaiphong": "2",
+        "so_phong": "501",
+        "tang": 5,
+        "trang_thai_phong": "TRONG",
+        "ghi_chu": "Phòng tiêu chuẩn đầy đủ tiện nghi"
+      },
+      {
+        "id_phong": "5",
+        "id_loaiphong": "2",
+        "so_phong": "502",
+        "tang": 5,
+        "trang_thai_phong": "TRONG",
+        "ghi_chu": "Phòng tiêu chuẩn đầy đủ tiện nghi"
+      },
+      {
+        "id_phong": "6",
+        "id_loaiphong": "3",
+        "so_phong": "201",
+        "tang": 2,
+        "trang_thai_phong": "TRONG",
+        "ghi_chu": "Phòng tiêu chuẩn đầy đủ tiện nghi"
+      },
+      {
+        "id_phong": "7",
+        "id_loaiphong": "3",
+        "so_phong": "202",
+        "tang": 2,
+        "trang_thai_phong": "TRONG",
+        "ghi_chu": "Phòng tiêu chuẩn đầy đủ tiện nghi"
+      },
+      {
+        "id_phong": "8",
+        "id_loaiphong": "3",
+        "so_phong": "203",
+        "tang": 2,
+        "trang_thai_phong": "TRONG",
+        "ghi_chu": "Phòng tiêu chuẩn đầy đủ tiện nghi"
+      },
+      {
+        "id_phong": "9",
+        "id_loaiphong": "4",
+        "so_phong": "601",
+        "tang": 6,
+        "trang_thai_phong": "TRONG",
+        "ghi_chu": "Phòng tiêu chuẩn đầy đủ tiện nghi"
+      },
+      {
+        "id_phong": "10",
+        "id_loaiphong": "4",
+        "so_phong": "602",
+        "tang": 6,
+        "trang_thai_phong": "TRONG",
+        "ghi_chu": "Phòng tiêu chuẩn đầy đủ tiện nghi"
+      },
+      {
+        "id_phong": "11",
+        "id_loaiphong": "5",
+        "so_phong": "101",
+        "tang": 1,
+        "trang_thai_phong": "TRONG",
+        "ghi_chu": "Phòng tiêu chuẩn đầy đủ tiện nghi"
+      },
+      {
+        "id_phong": "12",
+        "id_loaiphong": "5",
+        "so_phong": "102",
+        "tang": 1,
+        "trang_thai_phong": "TRONG",
+        "ghi_chu": "Phòng tiêu chuẩn đầy đủ tiện nghi"
+      },
+      {
+        "id_phong": "13",
+        "id_loaiphong": "5",
+        "so_phong": "103",
+        "tang": 1,
+        "trang_thai_phong": "TRONG",
+        "ghi_chu": "Phòng tiêu chuẩn đầy đủ tiện nghi"
+      },
+      {
+        "id_phong": "14",
+        "id_loaiphong": "6",
+        "so_phong": "V01",
+        "tang": 1,
+        "trang_thai_phong": "TRONG",
+        "ghi_chu": "Phòng tiêu chuẩn đầy đủ tiện nghi"
+      },
+      {
+        "id_phong": "15",
+        "id_loaiphong": "6",
+        "so_phong": "V02",
+        "tang": 1,
+        "trang_thai_phong": "TRONG",
+        "ghi_chu": "Phòng tiêu chuẩn đầy đủ tiện nghi"
+      },
+      {
+        "id_phong": "16",
+        "id_loaiphong": "7",
+        "so_phong": "B01",
+        "tang": 1,
+        "trang_thai_phong": "TRONG",
+        "ghi_chu": "Phòng tiêu chuẩn đầy đủ tiện nghi"
+      },
+      {
+        "id_phong": "17",
+        "id_loaiphong": "7",
+        "so_phong": "B02",
+        "tang": 1,
+        "trang_thai_phong": "TRONG",
+        "ghi_chu": "Phòng tiêu chuẩn đầy đủ tiện nghi"
+      },
+      {
+        "id_phong": "18",
+        "id_loaiphong": "7",
+        "so_phong": "B03",
+        "tang": 1,
+        "trang_thai_phong": "TRONG",
+        "ghi_chu": "Phòng tiêu chuẩn đầy đủ tiện nghi"
+      },
+      {
+        "id_phong": "19",
+        "id_loaiphong": "8",
+        "so_phong": "PV01",
+        "tang": 1,
+        "trang_thai_phong": "TRONG",
+        "ghi_chu": "Phòng tiêu chuẩn đầy đủ tiện nghi"
+      },
+      {
+        "id_phong": "20",
+        "id_loaiphong": "8",
+        "so_phong": "PV02",
+        "tang": 1,
+        "trang_thai_phong": "TRONG",
+        "ghi_chu": "Phòng tiêu chuẩn đầy đủ tiện nghi"
+      },
+      {
+        "id_phong": "21",
+        "id_loaiphong": "9",
+        "so_phong": "401",
+        "tang": 4,
+        "trang_thai_phong": "TRONG",
+        "ghi_chu": "Phòng tiêu chuẩn đầy đủ tiện nghi"
+      },
+      {
+        "id_phong": "22",
+        "id_loaiphong": "9",
+        "so_phong": "402",
+        "tang": 4,
+        "trang_thai_phong": "TRONG",
+        "ghi_chu": "Phòng tiêu chuẩn đầy đủ tiện nghi"
+      },
+      {
+        "id_phong": "23",
+        "id_loaiphong": "9",
+        "so_phong": "403",
+        "tang": 4,
+        "trang_thai_phong": "TRONG",
+        "ghi_chu": "Phòng tiêu chuẩn đầy đủ tiện nghi"
+      },
+      {
+        "id_phong": "24",
+        "id_loaiphong": "10",
+        "so_phong": "201",
+        "tang": 2,
+        "trang_thai_phong": "TRONG",
+        "ghi_chu": "Phòng tiêu chuẩn đầy đủ tiện nghi"
+      },
+      {
+        "id_phong": "25",
+        "id_loaiphong": "10",
+        "so_phong": "202",
+        "tang": 2,
+        "trang_thai_phong": "TRONG",
+        "ghi_chu": "Phòng tiêu chuẩn đầy đủ tiện nghi"
+      },
+      {
+        "id_phong": "26",
+        "id_loaiphong": "10",
+        "so_phong": "203",
+        "tang": 2,
+        "trang_thai_phong": "TRONG",
+        "ghi_chu": "Phòng tiêu chuẩn đầy đủ tiện nghi"
+      },
+      {
+        "id_phong": "27",
+        "id_loaiphong": "11",
+        "so_phong": "301",
+        "tang": 3,
+        "trang_thai_phong": "TRONG",
+        "ghi_chu": "Phòng tiêu chuẩn đầy đủ tiện nghi"
+      },
+      {
+        "id_phong": "28",
+        "id_loaiphong": "11",
+        "so_phong": "302",
+        "tang": 3,
+        "trang_thai_phong": "TRONG",
+        "ghi_chu": "Phòng tiêu chuẩn đầy đủ tiện nghi"
+      }
+    ],
+    "chi_tiet_dat_phong": [
+      {
+        "id_dondat": "1",
+        "id_phong": "1",
+        "don_gia": "1850000.00",
+        "so_dem": 2,
+        "thanh_tien": "3700000.00"
+      },
+      {
+        "id_dondat": "2",
+        "id_phong": "11",
+        "don_gia": "1100000.00",
+        "so_dem": 3,
+        "thanh_tien": "3300000.00"
+      },
+      {
+        "id_dondat": "3",
+        "id_phong": "6",
+        "don_gia": "1250000.00",
+        "so_dem": 2,
+        "thanh_tien": "2500000.00"
+      },
+      {
+        "id_dondat": "4",
+        "id_phong": "12",
+        "don_gia": "1100000.00",
+        "so_dem": 2,
+        "thanh_tien": "2200000.00"
+      },
+      {
+        "id_dondat": "5",
+        "id_phong": "14",
+        "don_gia": "2350000.00",
+        "so_dem": 11,
+        "thanh_tien": "25850000.00"
+      }
+    ],
+    "thanh_toan": [
+      {
+        "id_thanhtoan": "1",
+        "id_dondat": "1",
+        "phuong_thuc": "VNPAY",
+        "so_tien": "4050000.00",
+        "ma_giao_dich": "VNPA-DEMO-20260810",
+        "trang_thai_tt": "DA_THANH_TOAN"
+      },
+      {
+        "id_thanhtoan": "2",
+        "id_dondat": "2",
+        "phuong_thuc": "MOMO",
+        "so_tien": "3300000.00",
+        "ma_giao_dich": "MOMO-DEMO-20260915",
+        "trang_thai_tt": "DA_THANH_TOAN"
+      },
+      {
+        "id_thanhtoan": "3",
+        "id_dondat": "3",
+        "phuong_thuc": "CHUYEN_KHOAN",
+        "so_tien": "2500000.00",
+        "ma_giao_dich": "CHUY-DEMO-20261005",
+        "trang_thai_tt": "DA_THANH_TOAN"
+      },
+      {
+        "id_thanhtoan": "4",
+        "id_dondat": "4",
+        "phuong_thuc": "VNPAY",
+        "so_tien": "2200000.00",
+        "ma_giao_dich": "VNPA-1795239081456-D76D92",
+        "trang_thai_tt": "DA_THANH_TOAN"
+      },
+      {
+        "id_thanhtoan": "5",
+        "id_dondat": "5",
+        "phuong_thuc": "TIEN_MAT",
+        "so_tien": "25850000.00",
+        "ma_giao_dich": "TIEN-1795243759710-00084C",
+        "trang_thai_tt": "CHO_THANH_TOAN"
+      },
+      {
+        "id_thanhtoan": "6",
+        "id_dondat": "5",
+        "phuong_thuc": "TIEN_MAT",
+        "so_tien": "25850000.00",
+        "ma_giao_dich": "TIEN-1795243770807-D32385",
+        "trang_thai_tt": "CHO_THANH_TOAN"
+      }
+    ],
+    "hoa_don": [
+      {
+        "id_hoadon": "1",
+        "id_thanhtoan": "1",
+        "ma_so_thue": "0316888999",
+        "ten_cong_ty": "Công ty TNHH Công Nghệ Phương Nam",
+        "email_nhan_hd": "ketoan@phuongnam.vn",
+        "ngay_xuat": "2026-11-20T17:52:23.666Z"
+      }
+    ]
+  }
+}

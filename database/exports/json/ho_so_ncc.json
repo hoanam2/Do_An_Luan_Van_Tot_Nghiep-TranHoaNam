@@ -1,0 +1,20 @@
+[
+  {
+    "id_ncc": "1",
+    "id_nguoidung": "2",
+    "ten_doanh_nghiep": "Tập đoàn Khách sạn Ocean Hospitality",
+    "ma_so_thue": "0401999888",
+    "so_tai_khoan": "VCB-0041000999888",
+    "ty_le_chiet_khau": "10.00",
+    "trang_thai_duyet": "DA_DUYET"
+  },
+  {
+    "id_ncc": "2",
+    "id_nguoidung": "3",
+    "ten_doanh_nghiep": "Công ty Nghỉ dưỡng Highland Stays",
+    "ma_so_thue": "5801777666",
+    "so_tai_khoan": "TCB-1903666777888",
+    "ty_le_chiet_khau": "12.00",
+    "trang_thai_duyet": "DA_DUYET"
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "id_loaiphong": "1",
+    "id_khachsan": "1",
+    "ten_loaiphong": "Deluxe Ocean View",
+    "suc_chua": 2,
+    "gia_moi_dem": "1850000.00",
+    "dien_tich": 42,
+    "mo_ta_lp": "Ban công riêng hướng biển Mỹ Khê, giường King, bồn tắm nằm."
+  },
+  {
+    "id_loaiphong": "2",
+    "id_khachsan": "1",
+    "ten_loaiphong": "Executive Family Suite",
+    "suc_chua": 4,
+    "gia_moi_dem": "3400000.00",
+    "dien_tich": 75,
+    "mo_ta_lp": "2 phòng ngủ rộng rãi, phòng khách riêng, miễn phí buffet sáng 4 khách."
+  },
+  {
+    "id_loaiphong": "3",
+    "id_khachsan": "2",
+    "ten_loaiphong": "Superior City View",
+    "suc_chua": 2,
+    "gia_moi_dem": "1250000.00",
+    "dien_tich": 28,
+    "mo_ta_lp": "Phòng tiêu chuẩn đầy đủ tiện nghi công tác, bàn làm việc rộng."
+  },
+  {
+    "id_loaiphong": "4",
+    "id_khachsan": "2",
+    "ten_loaiphong": "Premier Executive",
+    "suc_chua": 2,
+    "gia_moi_dem": "1950000.00",
+    "dien_tich": 40,
+    "mo_ta_lp": "Tầng cao nhìn ra trung tâm thành phố, tặng kèm đồ uống tầng thượng."
+  },
+  {
+    "id_loaiphong": "5",
+    "id_khachsan": "3",
+    "ten_loaiphong": "Forest Balcony Twin",
+    "suc_chua": 2,
+    "gia_moi_dem": "1100000.00",
+    "dien_tich": 32,
+    "mo_ta_lp": "Ban công ngắm đồi thông săn mây buổi sáng, máy sưởi ấm áp."
+  },
+  {
+    "id_loaiphong": "6",
+    "id_khachsan": "3",
+    "ten_loaiphong": "Romantic Pine Villa",
+    "suc_chua": 4,
+    "gia_moi_dem": "2350000.00",
+    "dien_tich": 65,
+    "mo_ta_lp": "Nguyên căn riêng tư có lò sưởi và sân vườn BBQ ngoài trời."
+  },
+  {
+    "id_loaiphong": "7",
+    "id_khachsan": "4",
+    "ten_loaiphong": "Ocean Sunset Bungalow",
+    "suc_chua": 2,
+    "gia_moi_dem": "2650000.00",
+    "dien_tich": 50,
+    "mo_ta_lp": "Bungalow sát biển riêng tư, ngắm hoàng hôn trực diện."
+  },
+  {
+    "id_loaiphong": "8",
+    "id_khachsan": "4",
+    "ten_loaiphong": "Pool Villa 2 Phòng Ngủ",
+    "suc_chua": 4,
+    "gia_moi_dem": "4500000.00",
+    "dien_tich": 110,
+    "mo_ta_lp": "Hồ bơi riêng trong khuôn viên villa, dịch vụ quản gia 24/7."
+  },
+  {
+    "id_loaiphong": "9",
+    "id_khachsan": "5",
+    "ten_loaiphong": "Heritage Deluxe",
+    "suc_chua": 2,
+    "gia_moi_dem": "1350000.00",
+    "dien_tich": 30,
+    "mo_ta_lp": "Nội thất Indochine sang trọng, cửa sổ nhìn ra phố cổ."
+  },
+  {
+    "id_loaiphong": "10",
+    "id_khachsan": "6",
+    "ten_loaiphong": "Standard Sea Breeze",
+    "suc_chua": 2,
+    "gia_moi_dem": "690000.00",
+    "dien_tich": 25,
+    "mo_ta_lp": "Phòng gọn gàng thoáng mát, cách bãi biển 1 phút băng qua đường."
+  },
+  {
+    "id_loaiphong": "11",
+    "id_khachsan": "6",
+    "ten_loaiphong": "Family Quad Ocean",
+    "suc_chua": 4,
+    "gia_moi_dem": "1150000.00",
+    "dien_tich": 40,
+    "mo_ta_lp": "2 giường lớn cho nhóm bạn hoặc gia đình 4 người."
+  }
+]

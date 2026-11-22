@@ -1,0 +1,20 @@
+[
+  {
+    "id_khuyenmai": "1",
+    "ma_voucher": "WELCOME10",
+    "loai_giamgia": "PHAN_TRAM",
+    "gia_tri_giam": "10.00",
+    "ngay_batdau": "2026-11-19T17:37:57.816Z",
+    "ngay_ketthuc": "2027-11-20T17:37:57.816Z",
+    "id_khachsan": null
+  },
+  {
+    "id_khuyenmai": "2",
+    "ma_voucher": "GIAM200K",
+    "loai_giamgia": "SO_TIEN",
+    "gia_tri_giam": "200000.00",
+    "ngay_batdau": "2026-11-19T17:37:57.816Z",
+    "ngay_ketthuc": "2027-11-20T17:37:57.816Z",
+    "id_khachsan": null
+  }
+]

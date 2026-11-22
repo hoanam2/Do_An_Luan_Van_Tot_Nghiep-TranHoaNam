@@ -1,0 +1,74 @@
+[
+  {
+    "id_tienich": "1",
+    "ten_tienich": "Wi-Fi tốc độ cao miễn phí",
+    "loai_tienich": "CO_BAN",
+    "icon": "wifi"
+  },
+  {
+    "id_tienich": "2",
+    "ten_tienich": "Hồ bơi vô cực",
+    "loai_tienich": "GIAI_TRI",
+    "icon": "pool"
+  },
+  {
+    "id_tienich": "3",
+    "ten_tienich": "Bãi đỗ xe miễn phí",
+    "loai_tienich": "CO_BAN",
+    "icon": "parking"
+  },
+  {
+    "id_tienich": "4",
+    "ten_tienich": "Phòng tập Gym",
+    "loai_tienich": "GIAI_TRI",
+    "icon": "dumbbell"
+  },
+  {
+    "id_tienich": "5",
+    "ten_tienich": "Spa & Massage",
+    "loai_tienich": "GIAI_TRI",
+    "icon": "spa"
+  },
+  {
+    "id_tienich": "6",
+    "ten_tienich": "Nhà hàng buffet sáng",
+    "loai_tienich": "AM_THUC",
+    "icon": "utensils"
+  },
+  {
+    "id_tienich": "7",
+    "ten_tienich": "Quầy bar tầng thượng",
+    "loai_tienich": "AM_THUC",
+    "icon": "martini"
+  },
+  {
+    "id_tienich": "8",
+    "ten_tienich": "Đưa đón sân bay",
+    "loai_tienich": "DI_CHUYEN",
+    "icon": "plane"
+  },
+  {
+    "id_tienich": "9",
+    "ten_tienich": "Lễ tân 24/7",
+    "loai_tienich": "CO_BAN",
+    "icon": "clock"
+  },
+  {
+    "id_tienich": "10",
+    "ten_tienich": "Hướng biển",
+    "loai_tienich": "KHONG_GIAN",
+    "icon": "waves"
+  },
+  {
+    "id_tienich": "11",
+    "ten_tienich": "Phòng họp / Hội nghị",
+    "loai_tienich": "CONG_TAC",
+    "icon": "briefcase"
+  },
+  {
+    "id_tienich": "12",
+    "ten_tienich": "Cho phép thú cưng",
+    "loai_tienich": "TIEN_NGHI",
+    "icon": "paw"
+  }
+]

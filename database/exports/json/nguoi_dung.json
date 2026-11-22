@@ -1,0 +1,82 @@
+[
+  {
+    "id_nguoidung": "1",
+    "id_vaitro": "3",
+    "ho_ten": "Quản trị viên hệ thống",
+    "email": "admin@smarthotel.vn",
+    "mat_khau": "$2a$10$CVSLimX5Ol9viecoq7ERZ.qjzZiM/yeKh0boPl3KjTDA4YjkCyVe6",
+    "sdt": "0900000001",
+    "avatar": null,
+    "trang_thai_tk": "HOAT_DONG"
+  },
+  {
+    "id_nguoidung": "2",
+    "id_vaitro": "2",
+    "ho_ten": "Nguyễn Minh Quân (Ocean Hospitality)",
+    "email": "vendor.danang@smarthotel.vn",
+    "mat_khau": "$2a$10$13S6bf/aBMSe9kQu1u1OHuDAuRVqCXL0cPnLasF7wqkVJj.J1ZBde",
+    "sdt": "0905111222",
+    "avatar": null,
+    "trang_thai_tk": "HOAT_DONG"
+  },
+  {
+    "id_nguoidung": "3",
+    "id_vaitro": "2",
+    "ho_ten": "Trần Thảo Vy (Highland Stays)",
+    "email": "vendor.dalat@smarthotel.vn",
+    "mat_khau": "$2a$10$501Sw45iJ.OGE1vosKU.FOB2iubVgzis3lV2TIltf4TZBBjGOIStC",
+    "sdt": "0908333444",
+    "avatar": null,
+    "trang_thai_tk": "HOAT_DONG"
+  },
+  {
+    "id_nguoidung": "4",
+    "id_vaitro": "1",
+    "ho_ten": "Lê Hoàng Nam",
+    "email": "khach1@smarthotel.vn",
+    "mat_khau": "$2a$10$CRxDg7EENz15eldWVc72MO2ShgNF9AOLYj/lR27ghM1uoi0ORxEh.",
+    "sdt": "0912345678",
+    "avatar": null,
+    "trang_thai_tk": "HOAT_DONG"
+  },
+  {
+    "id_nguoidung": "5",
+    "id_vaitro": "1",
+    "ho_ten": "Phạm Ngọc Anh",
+    "email": "khach2@smarthotel.vn",
+    "mat_khau": "$2a$10$3mBkHzZ9UcCp60Eo.PF6Kujnrh7DaoBtcuswO1LjoCuzYMYwPHNoW",
+    "sdt": "0987654321",
+    "avatar": null,
+    "trang_thai_tk": "HOAT_DONG"
+  },
+  {
+    "id_nguoidung": "7",
+    "id_vaitro": "1",
+    "ho_ten": "NamNam",
+    "email": "hoanamtran68@gmail.com",
+    "mat_khau": "$2a$10$1GflSjSJs6FtI2SbyKxjXeWm/A/oBNOawv7aZQUwrr30EI05CxaW2",
+    "sdt": "0777106713",
+    "avatar": null,
+    "trang_thai_tk": "HOAT_DONG"
+  },
+  {
+    "id_nguoidung": "8",
+    "id_vaitro": "1",
+    "ho_ten": "duong",
+    "email": "deo.duong@mailinator.com",
+    "mat_khau": "$2a$10$NWthjBTS6K6U.mvhIYpVe.b2GtYhcuEWr.c.fhAmPu.WYZHsmmRym",
+    "sdt": "0912356791",
+    "avatar": null,
+    "trang_thai_tk": "HOAT_DONG"
+  },
+  {
+    "id_nguoidung": "9",
+    "id_vaitro": "1",
+    "ho_ten": "duong",
+    "email": "deo.duong1@mailinator.com",
+    "mat_khau": "$2a$10$s5an1mwBx5LNcL40dSWO.uMHMzXDV62bZdEDrTiIHi4FX5SM6nnQq",
+    "sdt": "0912356792",
+    "avatar": null,
+    "trang_thai_tk": "HOAT_DONG"
+  }
+]

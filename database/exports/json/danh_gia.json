@@ -1,0 +1,38 @@
+[
+  {
+    "id_danhgia": "1",
+    "id_nguoidung": "4",
+    "id_khachsan": "1",
+    "so_sao": 5,
+    "noi_dung": "Resort quá tuyệt vời! Hồ bơi vô cực nhìn thẳng ra biển Mỹ Khê, phòng sạch sẽ, nhân viên nhiệt tình và buffet sáng rất phong phú.",
+    "phan_hoi_ncc": "Grand Ocean Bay xin cảm ơn anh Nam đã dành lời khen. Rất mong được đón tiếp anh trong chuyến đi sắp tới!",
+    "trang_thai_duyet": "HIEN_THI"
+  },
+  {
+    "id_danhgia": "2",
+    "id_nguoidung": "5",
+    "id_khachsan": "1",
+    "so_sao": 4,
+    "noi_dung": "Phòng đẹp, view biển rất thư giãn, spa làm tốt. Tuy nhiên giờ cao điểm thang máy hơi đông một chút.",
+    "phan_hoi_ncc": null,
+    "trang_thai_duyet": "HIEN_THI"
+  },
+  {
+    "id_danhgia": "3",
+    "id_nguoidung": "5",
+    "id_khachsan": "3",
+    "so_sao": 5,
+    "noi_dung": "Không gian rừng thông siêu chill và yên tĩnh, buổi sáng mở ban công ngắm mây cực thích. Rất hợp đi nghỉ dưỡng cùng người yêu.",
+    "phan_hoi_ncc": "Cảm ơn chị Ngọc Anh đã ghé thăm Pine Hill Mist Villa Đà Lạt ạ!",
+    "trang_thai_duyet": "HIEN_THI"
+  },
+  {
+    "id_danhgia": "4",
+    "id_nguoidung": "4",
+    "id_khachsan": "2",
+    "so_sao": 5,
+    "noi_dung": "Vị trí ngay trung tâm Quận 1 đi công tác rất tiện lợi, Wi-Fi mạnh và quầy bar tầng thượng có view đẹp.",
+    "phan_hoi_ncc": null,
+    "trang_thai_duyet": "HIEN_THI"
+  }
+]

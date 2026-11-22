@@ -1,0 +1,37 @@
+[
+  {
+    "id_dondat": "1",
+    "id_phong": "1",
+    "don_gia": "1850000.00",
+    "so_dem": 2,
+    "thanh_tien": "3700000.00"
+  },
+  {
+    "id_dondat": "2",
+    "id_phong": "11",
+    "don_gia": "1100000.00",
+    "so_dem": 3,
+    "thanh_tien": "3300000.00"
+  },
+  {
+    "id_dondat": "3",
+    "id_phong": "6",
+    "don_gia": "1250000.00",
+    "so_dem": 2,
+    "thanh_tien": "2500000.00"
+  },
+  {
+    "id_dondat": "4",
+    "id_phong": "12",
+    "don_gia": "1100000.00",
+    "so_dem": 2,
+    "thanh_tien": "2200000.00"
+  },
+  {
+    "id_dondat": "5",
+    "id_phong": "14",
+    "don_gia": "2350000.00",
+    "so_dem": 11,
+    "thanh_tien": "25850000.00"
+  }
+]

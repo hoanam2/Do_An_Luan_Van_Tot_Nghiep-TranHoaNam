@@ -1,0 +1,93 @@
+[
+  {
+    "id_dichvu": "1",
+    "id_khachsan": "1",
+    "ten_dichvu": "Đưa đón sân bay Đà Nẵng",
+    "gia_dichvu": "350000.00",
+    "don_vi_tinh": "Lượt"
+  },
+  {
+    "id_dichvu": "2",
+    "id_khachsan": "1",
+    "ten_dichvu": "Liệu trình Spa thư giãn 60 phút",
+    "gia_dichvu": "650000.00",
+    "don_vi_tinh": "Suất"
+  },
+  {
+    "id_dichvu": "3",
+    "id_khachsan": "1",
+    "ten_dichvu": "Buffet hải sản tối",
+    "gia_dichvu": "590000.00",
+    "don_vi_tinh": "Khách"
+  },
+  {
+    "id_dichvu": "4",
+    "id_khachsan": "2",
+    "ten_dichvu": "Giặt ủi nhanh trong ngày",
+    "gia_dichvu": "150000.00",
+    "don_vi_tinh": "Kg"
+  },
+  {
+    "id_dichvu": "5",
+    "id_khachsan": "2",
+    "ten_dichvu": "Đưa đón sân bay Tân Sơn Nhất",
+    "gia_dichvu": "300000.00",
+    "don_vi_tinh": "Lượt"
+  },
+  {
+    "id_dichvu": "6",
+    "id_khachsan": "3",
+    "ten_dichvu": "Set tiệc BBQ sân vườn (2-4 người)",
+    "gia_dichvu": "850000.00",
+    "don_vi_tinh": "Set"
+  },
+  {
+    "id_dichvu": "7",
+    "id_khachsan": "3",
+    "ten_dichvu": "Thuê xe máy khám phá Đà Lạt",
+    "gia_dichvu": "150000.00",
+    "don_vi_tinh": "Ngày"
+  },
+  {
+    "id_dichvu": "8",
+    "id_khachsan": "4",
+    "ten_dichvu": "Tour cano 4 đảo Phú Quốc",
+    "gia_dichvu": "950000.00",
+    "don_vi_tinh": "Khách"
+  },
+  {
+    "id_dichvu": "9",
+    "id_khachsan": "4",
+    "ten_dichvu": "Đưa đón sân bay Phú Quốc",
+    "gia_dichvu": "250000.00",
+    "don_vi_tinh": "Lượt"
+  },
+  {
+    "id_dichvu": "10",
+    "id_khachsan": "5",
+    "ten_dichvu": "Đưa đón sân bay Nội Bài",
+    "gia_dichvu": "400000.00",
+    "don_vi_tinh": "Lượt"
+  },
+  {
+    "id_dichvu": "11",
+    "id_khachsan": "5",
+    "ten_dichvu": "City Tour Hà Nội nửa ngày",
+    "gia_dichvu": "550000.00",
+    "don_vi_tinh": "Khách"
+  },
+  {
+    "id_dichvu": "12",
+    "id_khachsan": "6",
+    "ten_dichvu": "Thuê xe máy Nha Trang",
+    "gia_dichvu": "130000.00",
+    "don_vi_tinh": "Ngày"
+  },
+  {
+    "id_dichvu": "13",
+    "id_khachsan": "6",
+    "ten_dichvu": "Ăn sáng tự chọn",
+    "gia_dichvu": "120000.00",
+    "don_vi_tinh": "Khách"
+  }
+]

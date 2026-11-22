@@ -1,0 +1,226 @@
+[
+  {
+    "id_phong": "1",
+    "id_loaiphong": "1",
+    "so_phong": "301",
+    "tang": 3,
+    "trang_thai_phong": "TRONG",
+    "ghi_chu": "Phòng tiêu chuẩn đầy đủ tiện nghi"
+  },
+  {
+    "id_phong": "2",
+    "id_loaiphong": "1",
+    "so_phong": "302",
+    "tang": 3,
+    "trang_thai_phong": "TRONG",
+    "ghi_chu": "Phòng tiêu chuẩn đầy đủ tiện nghi"
+  },
+  {
+    "id_phong": "3",
+    "id_loaiphong": "1",
+    "so_phong": "303",
+    "tang": 3,
+    "trang_thai_phong": "TRONG",
+    "ghi_chu": "Phòng tiêu chuẩn đầy đủ tiện nghi"
+  },
+  {
+    "id_phong": "4",
+    "id_loaiphong": "2",
+    "so_phong": "501",
+    "tang": 5,
+    "trang_thai_phong": "TRONG",
+    "ghi_chu": "Phòng tiêu chuẩn đầy đủ tiện nghi"
+  },
+  {
+    "id_phong": "5",
+    "id_loaiphong": "2",
+    "so_phong": "502",
+    "tang": 5,
+    "trang_thai_phong": "TRONG",
+    "ghi_chu": "Phòng tiêu chuẩn đầy đủ tiện nghi"
+  },
+  {
+    "id_phong": "6",
+    "id_loaiphong": "3",
+    "so_phong": "201",
+    "tang": 2,
+    "trang_thai_phong": "TRONG",
+    "ghi_chu": "Phòng tiêu chuẩn đầy đủ tiện nghi"
+  },
+  {
+    "id_phong": "7",
+    "id_loaiphong": "3",
+    "so_phong": "202",
+    "tang": 2,
+    "trang_thai_phong": "TRONG",
+    "ghi_chu": "Phòng tiêu chuẩn đầy đủ tiện nghi"
+  },
+  {
+    "id_phong": "8",
+    "id_loaiphong": "3",
+    "so_phong": "203",
+    "tang": 2,
+    "trang_thai_phong": "TRONG",
+    "ghi_chu": "Phòng tiêu chuẩn đầy đủ tiện nghi"
+  },
+  {
+    "id_phong": "9",
+    "id_loaiphong": "4",
+    "so_phong": "601",
+    "tang": 6,
+    "trang_thai_phong": "TRONG",
+    "ghi_chu": "Phòng tiêu chuẩn đầy đủ tiện nghi"
+  },
+  {
+    "id_phong": "10",
+    "id_loaiphong": "4",
+    "so_phong": "602",
+    "tang": 6,
+    "trang_thai_phong": "TRONG",
+    "ghi_chu": "Phòng tiêu chuẩn đầy đủ tiện nghi"
+  },
+  {
+    "id_phong": "11",
+    "id_loaiphong": "5",
+    "so_phong": "101",
+    "tang": 1,
+    "trang_thai_phong": "TRONG",
+    "ghi_chu": "Phòng tiêu chuẩn đầy đủ tiện nghi"
+  },
+  {
+    "id_phong": "12",
+    "id_loaiphong": "5",
+    "so_phong": "102",
+    "tang": 1,
+    "trang_thai_phong": "TRONG",
+    "ghi_chu": "Phòng tiêu chuẩn đầy đủ tiện nghi"
+  },
+  {
+    "id_phong": "13",
+    "id_loaiphong": "5",
+    "so_phong": "103",
+    "tang": 1,
+    "trang_thai_phong": "TRONG",
+    "ghi_chu": "Phòng tiêu chuẩn đầy đủ tiện nghi"
+  },
+  {
+    "id_phong": "14",
+    "id_loaiphong": "6",
+    "so_phong": "V01",
+    "tang": 1,
+    "trang_thai_phong": "TRONG",
+    "ghi_chu": "Phòng tiêu chuẩn đầy đủ tiện nghi"
+  },
+  {
+    "id_phong": "15",
+    "id_loaiphong": "6",
+    "so_phong": "V02",
+    "tang": 1,
+    "trang_thai_phong": "TRONG",
+    "ghi_chu": "Phòng tiêu chuẩn đầy đủ tiện nghi"
+  },
+  {
+    "id_phong": "16",
+    "id_loaiphong": "7",
+    "so_phong": "B01",
+    "tang": 1,
+    "trang_thai_phong": "TRONG",
+    "ghi_chu": "Phòng tiêu chuẩn đầy đủ tiện nghi"
+  },
+  {
+    "id_phong": "17",
+    "id_loaiphong": "7",
+    "so_phong": "B02",
+    "tang": 1,
+    "trang_thai_phong": "TRONG",
+    "ghi_chu": "Phòng tiêu chuẩn đầy đủ tiện nghi"
+  },
+  {
+    "id_phong": "18",
+    "id_loaiphong": "7",
+    "so_phong": "B03",
+    "tang": 1,
+    "trang_thai_phong": "TRONG",
+    "ghi_chu": "Phòng tiêu chuẩn đầy đủ tiện nghi"
+  },
+  {
+    "id_phong": "19",
+    "id_loaiphong": "8",
+    "so_phong": "PV01",
+    "tang": 1,
+    "trang_thai_phong": "TRONG",
+    "ghi_chu": "Phòng tiêu chuẩn đầy đủ tiện nghi"
+  },
+  {
+    "id_phong": "20",
+    "id_loaiphong": "8",
+    "so_phong": "PV02",
+    "tang": 1,
+    "trang_thai_phong": "TRONG",
+    "ghi_chu": "Phòng tiêu chuẩn đầy đủ tiện nghi"
+  },
+  {
+    "id_phong": "21",
+    "id_loaiphong": "9",
+    "so_phong": "401",
+    "tang": 4,
+    "trang_thai_phong": "TRONG",
+    "ghi_chu": "Phòng tiêu chuẩn đầy đủ tiện nghi"
+  },
+  {
+    "id_phong": "22",
+    "id_loaiphong": "9",
+    "so_phong": "402",
+    "tang": 4,
+    "trang_thai_phong": "TRONG",
+    "ghi_chu": "Phòng tiêu chuẩn đầy đủ tiện nghi"
+  },
+  {
+    "id_phong": "23",
+    "id_loaiphong": "9",
+    "so_phong": "403",
+    "tang": 4,
+    "trang_thai_phong": "TRONG",
+    "ghi_chu": "Phòng tiêu chuẩn đầy đủ tiện nghi"
+  },
+  {
+    "id_phong": "24",
+    "id_loaiphong": "10",
+    "so_phong": "201",
+    "tang": 2,
+    "trang_thai_phong": "TRONG",
+    "ghi_chu": "Phòng tiêu chuẩn đầy đủ tiện nghi"
+  },
+  {
+    "id_phong": "25",
+    "id_loaiphong": "10",
+    "so_phong": "202",
+    "tang": 2,
+    "trang_thai_phong": "TRONG",
+    "ghi_chu": "Phòng tiêu chuẩn đầy đủ tiện nghi"
+  },
+  {
+    "id_phong": "26",
+    "id_loaiphong": "10",
+    "so_phong": "203",
+    "tang": 2,
+    "trang_thai_phong": "TRONG",
+    "ghi_chu": "Phòng tiêu chuẩn đầy đủ tiện nghi"
+  },
+  {
+    "id_phong": "27",
+    "id_loaiphong": "11",
+    "so_phong": "301",
+    "tang": 3,
+    "trang_thai_phong": "TRONG",
+    "ghi_chu": "Phòng tiêu chuẩn đầy đủ tiện nghi"
+  },
+  {
+    "id_phong": "28",
+    "id_loaiphong": "11",
+    "so_phong": "302",
+    "tang": 3,
+    "trang_thai_phong": "TRONG",
+    "ghi_chu": "Phòng tiêu chuẩn đầy đủ tiện nghi"
+  }
+]

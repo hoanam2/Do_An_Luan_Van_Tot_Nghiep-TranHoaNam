@@ -1,0 +1,17 @@
+[
+  {
+    "id_vaitro": "1",
+    "ten_vaitro": "USER",
+    "mo_ta_vaitro": "Khách hàng đặt phòng và đánh giá"
+  },
+  {
+    "id_vaitro": "2",
+    "ten_vaitro": "VENDOR",
+    "mo_ta_vaitro": "Nhà cung cấp / Chủ khách sạn"
+  },
+  {
+    "id_vaitro": "3",
+    "ten_vaitro": "ADMIN",
+    "mo_ta_vaitro": "Quản trị viên hệ thống"
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "name": "smart-hotel-booking-backend",
+  "version": "1.0.0",
+  "description": "Backend API cho hệ thống đặt phòng khách sạn thông minh (Node.js + Express + PostgreSQL + Gemini AI)",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js",
+    "seed": "node src/scripts/seed.js",
+    "seed:demo": "node src/scripts/seed_demo.js",
+    "migrate:ai": "node src/scripts/migrate_ai_embedding.js",
+    "db:export": "node src/scripts/export_database.js",
+    "db:import": "node src/scripts/import_database.js",
+    "test:e2e": "node src/scripts/test_e2e.js"
+  },
+  "dependencies": {
+    "@google/genai": "^1.0.0",
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "helmet": "^8.0.0",
+    "jsonwebtoken": "^9.0.2",
+    "morgan": "^1.10.0",
+    "nodemailer": "^6.10.0",
+    "pg": "^8.13.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}

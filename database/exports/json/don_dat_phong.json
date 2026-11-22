@@ -1,0 +1,57 @@
+[
+  {
+    "id_dondat": "1",
+    "id_nguoidung": "4",
+    "id_khachsan": "1",
+    "id_khuyenmai": null,
+    "ngay_nhan_phong": "2026-08-09T17:00:00.000Z",
+    "ngay_tra_phong": "2026-08-11T17:00:00.000Z",
+    "tong_tien": "4050000.00",
+    "phi_hoa_hong": "405000.00",
+    "trang_thai_don": "HOAN_THANH"
+  },
+  {
+    "id_dondat": "2",
+    "id_nguoidung": "5",
+    "id_khachsan": "3",
+    "id_khuyenmai": null,
+    "ngay_nhan_phong": "2026-09-14T17:00:00.000Z",
+    "ngay_tra_phong": "2026-09-17T17:00:00.000Z",
+    "tong_tien": "3300000.00",
+    "phi_hoa_hong": "396000.00",
+    "trang_thai_don": "HOAN_THANH"
+  },
+  {
+    "id_dondat": "3",
+    "id_nguoidung": "4",
+    "id_khachsan": "2",
+    "id_khuyenmai": null,
+    "ngay_nhan_phong": "2026-10-04T17:00:00.000Z",
+    "ngay_tra_phong": "2026-10-06T17:00:00.000Z",
+    "tong_tien": "2500000.00",
+    "phi_hoa_hong": "250000.00",
+    "trang_thai_don": "DA_XAC_NHAN"
+  },
+  {
+    "id_dondat": "4",
+    "id_nguoidung": "7",
+    "id_khachsan": "3",
+    "id_khuyenmai": null,
+    "ngay_nhan_phong": "2026-11-23T17:00:00.000Z",
+    "ngay_tra_phong": "2026-11-25T17:00:00.000Z",
+    "tong_tien": "2200000.00",
+    "phi_hoa_hong": "264000.00",
+    "trang_thai_don": "DA_HUY"
+  },
+  {
+    "id_dondat": "5",
+    "id_nguoidung": "9",
+    "id_khachsan": "3",
+    "id_khuyenmai": null,
+    "ngay_nhan_phong": "2026-11-09T17:00:00.000Z",
+    "ngay_tra_phong": "2026-11-20T17:00:00.000Z",
+    "tong_tien": "25850000.00",
+    "phi_hoa_hong": "3102000.00",
+    "trang_thai_don": "CHO_XAC_NHAN"
+  }
+]

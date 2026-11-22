@@ -1,0 +1,50 @@
+[
+  {
+    "id_thanhtoan": "1",
+    "id_dondat": "1",
+    "phuong_thuc": "VNPAY",
+    "so_tien": "4050000.00",
+    "ma_giao_dich": "VNPA-DEMO-20260810",
+    "trang_thai_tt": "DA_THANH_TOAN"
+  },
+  {
+    "id_thanhtoan": "2",
+    "id_dondat": "2",
+    "phuong_thuc": "MOMO",
+    "so_tien": "3300000.00",
+    "ma_giao_dich": "MOMO-DEMO-20260915",
+    "trang_thai_tt": "DA_THANH_TOAN"
+  },
+  {
+    "id_thanhtoan": "3",
+    "id_dondat": "3",
+    "phuong_thuc": "CHUYEN_KHOAN",
+    "so_tien": "2500000.00",
+    "ma_giao_dich": "CHUY-DEMO-20261005",
+    "trang_thai_tt": "DA_THANH_TOAN"
+  },
+  {
+    "id_thanhtoan": "4",
+    "id_dondat": "4",
+    "phuong_thuc": "VNPAY",
+    "so_tien": "2200000.00",
+    "ma_giao_dich": "VNPA-1795239081456-D76D92",
+    "trang_thai_tt": "DA_THANH_TOAN"
+  },
+  {
+    "id_thanhtoan": "5",
+    "id_dondat": "5",
+    "phuong_thuc": "TIEN_MAT",
+    "so_tien": "25850000.00",
+    "ma_giao_dich": "TIEN-1795243759710-00084C",
+    "trang_thai_tt": "CHO_THANH_TOAN"
+  },
+  {
+    "id_thanhtoan": "6",
+    "id_dondat": "5",
+    "phuong_thuc": "TIEN_MAT",
+    "so_tien": "25850000.00",
+    "ma_giao_dich": "TIEN-1795243770807-D32385",
+    "trang_thai_tt": "CHO_THANH_TOAN"
+  }
+]

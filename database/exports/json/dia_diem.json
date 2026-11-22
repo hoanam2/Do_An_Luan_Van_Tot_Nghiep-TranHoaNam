@@ -1,0 +1,62 @@
+[
+  {
+    "id_diadiem": "1",
+    "tinh_thanh": "TP. Hồ Chí Minh",
+    "quan_huyen": "Quận 1",
+    "slug": "tp-ho-chi-minh-quan-1"
+  },
+  {
+    "id_diadiem": "2",
+    "tinh_thanh": "TP. Hồ Chí Minh",
+    "quan_huyen": "Quận 3",
+    "slug": "tp-ho-chi-minh-quan-3"
+  },
+  {
+    "id_diadiem": "3",
+    "tinh_thanh": "TP. Hồ Chí Minh",
+    "quan_huyen": "TP. Thủ Đức",
+    "slug": "tp-ho-chi-minh-thu-duc"
+  },
+  {
+    "id_diadiem": "4",
+    "tinh_thanh": "Hà Nội",
+    "quan_huyen": "Quận Hoàn Kiếm",
+    "slug": "ha-noi-hoan-kiem"
+  },
+  {
+    "id_diadiem": "5",
+    "tinh_thanh": "Hà Nội",
+    "quan_huyen": "Quận Tây Hồ",
+    "slug": "ha-noi-tay-ho"
+  },
+  {
+    "id_diadiem": "6",
+    "tinh_thanh": "Đà Nẵng",
+    "quan_huyen": "Quận Sơn Trà",
+    "slug": "da-nang-son-tra"
+  },
+  {
+    "id_diadiem": "7",
+    "tinh_thanh": "Đà Nẵng",
+    "quan_huyen": "Quận Ngũ Hành Sơn",
+    "slug": "da-nang-ngu-hanh-son"
+  },
+  {
+    "id_diadiem": "8",
+    "tinh_thanh": "Lâm Đồng",
+    "quan_huyen": "TP. Đà Lạt",
+    "slug": "lam-dong-da-lat"
+  },
+  {
+    "id_diadiem": "9",
+    "tinh_thanh": "Khánh Hòa",
+    "quan_huyen": "TP. Nha Trang",
+    "slug": "khanh-hoa-nha-trang"
+  },
+  {
+    "id_diadiem": "10",
+    "tinh_thanh": "Kiên Giang",
+    "quan_huyen": "TP. Phú Quốc",
+    "slug": "kien-giang-phu-quoc"
+  }
+]

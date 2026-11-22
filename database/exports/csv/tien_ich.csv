@@ -1,0 +1,13 @@
+﻿id_tienich,ten_tienich,loai_tienich,icon
+1,Wi-Fi tốc độ cao miễn phí,CO_BAN,wifi
+2,Hồ bơi vô cực,GIAI_TRI,pool
+3,Bãi đỗ xe miễn phí,CO_BAN,parking
+4,Phòng tập Gym,GIAI_TRI,dumbbell
+5,Spa & Massage,GIAI_TRI,spa
+6,Nhà hàng buffet sáng,AM_THUC,utensils
+7,Quầy bar tầng thượng,AM_THUC,martini
+8,Đưa đón sân bay,DI_CHUYEN,plane
+9,Lễ tân 24/7,CO_BAN,clock
+10,Hướng biển,KHONG_GIAN,waves
+11,Phòng họp / Hội nghị,CONG_TAC,briefcase
+12,Cho phép thú cưng,TIEN_NGHI,paw

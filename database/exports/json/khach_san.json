@@ -1,0 +1,68 @@
+[
+  {
+    "id_khachsan": "1",
+    "id_ncc": "1",
+    "id_diadiem": "6",
+    "ten_khachsan": "Grand Ocean Bay Resort & Spa",
+    "dia_chi": "88 Võ Nguyên Giáp, Quận Sơn Trà, Đà Nẵng",
+    "mo_ta": "Khu nghỉ dưỡng 5 sao sang trọng nằm trực diện bãi biển Mỹ Khê với hồ bơi vô cực hướng biển, spa cao cấp và nhà hàng buffet quốc tế. Lý tưởng cho cặp đôi nghỉ dưỡng và gia đình.",
+    "hang_sao": 5,
+    "trang_thai_duyet": "DA_DUYET",
+    "embedding": null
+  },
+  {
+    "id_khachsan": "2",
+    "id_ncc": "1",
+    "id_diadiem": "1",
+    "ten_khachsan": "Saigon Central Boutique Hotel",
+    "dia_chi": "125 Lê Lợi, Phường Bến Thành, Quận 1, TP. Hồ Chí Minh",
+    "mo_ta": "Khách sạn 4 sao phong cách hiện đại ngay trung tâm Quận 1, cách chợ Bến Thành 3 phút đi bộ. Có phòng họp chuyên nghiệp, quầy bar tầng thượng ngắm toàn cảnh thành phố.",
+    "hang_sao": 4,
+    "trang_thai_duyet": "DA_DUYET",
+    "embedding": null
+  },
+  {
+    "id_khachsan": "3",
+    "id_ncc": "2",
+    "id_diadiem": "8",
+    "ten_khachsan": "Pine Hill Mist Villa Đà Lạt",
+    "dia_chi": "18 Đường Trần Hưng Đạo, TP. Đà Lạt, Lâm Đồng",
+    "mo_ta": "Biệt thự nghỉ dưỡng 4 sao ẩn mình giữa rừng thông yên tĩnh, không khí se lạnh, thiết kế gỗ ấm cúng lãng mạn cực kỳ phù hợp cho cặp đôi, gia đình nhỏ và thân thiện với thú cưng.",
+    "hang_sao": 4,
+    "trang_thai_duyet": "DA_DUYET",
+    "embedding": null
+  },
+  {
+    "id_khachsan": "4",
+    "id_ncc": "1",
+    "id_diadiem": "10",
+    "ten_khachsan": "Emerald Pearl Phú Quốc Resort",
+    "dia_chi": "Bãi Trường, Dương Tơ, TP. Phú Quốc, Kiên Giang",
+    "mo_ta": "Thiên đường nghỉ dưỡng 5 sao bên bờ biển Phú Quốc với bãi cát trắng riêng, hồ bơi vô cực ngắm hoàng hôn tuyệt đẹp, spa thảo mộc và khu vui chơi trẻ em.",
+    "hang_sao": 5,
+    "trang_thai_duyet": "DA_DUYET",
+    "embedding": null
+  },
+  {
+    "id_khachsan": "5",
+    "id_ncc": "2",
+    "id_diadiem": "4",
+    "ten_khachsan": "Hanoi Old Quarter Heritage Hotel",
+    "dia_chi": "42 Hàng Bè, Quận Hoàn Kiếm, Hà Nội",
+    "mo_ta": "Khách sạn 4 sao mang phong cách Đông Dương tinh tế giữa lòng phố cổ Hà Nội, cách Hồ Hoàn Kiếm chỉ 200m, thuận tiện khám phá ẩm thực và văn hóa thủ đô.",
+    "hang_sao": 4,
+    "trang_thai_duyet": "DA_DUYET",
+    "embedding": null
+  },
+  {
+    "id_khachsan": "6",
+    "id_ncc": "2",
+    "id_diadiem": "9",
+    "ten_khachsan": "Sunrise Beachfront Nha Trang",
+    "dia_chi": "64 Trần Phú, TP. Nha Trang, Khánh Hòa",
+    "mo_ta": "Khách sạn 3 sao giá tốt ngay mặt tiền đường biển Trần Phú, phòng sạch sẽ sáng sủa, có hồ bơi ngoài trời và nhân viên thân thiện. Phù hợp du lịch tiết kiệm cùng bạn bè, gia đình.",
+    "hang_sao": 3,
+    "trang_thai_duyet": "DA_DUYET",
+    "embedding": null
+  }
+]
